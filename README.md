@@ -1,16 +1,13 @@
 # MinnaBank UI Clone
 
-<p align="center">
-  <img src="MinnaBank/Assets.xcassets/hero.imageset/hero.png" width="300" alt="MinnaBank Hero"/>
-</p>
-
 일본 디지털 뱅크 **みんなの銀行 (Minna Bank)** 앱의 Wallet 화면을 SwiftUI로 클론한 프로젝트입니다.
 
 ## 📱 스크린샷
 
-| Wallet 화면 |
-|:---:|
-| 깔끔한 디지털 뱅킹 UI |
+| 원본 (Minna Bank) | 클론 (SwiftUI) |
+|:---:|:---:|
+| <img src="screenshots/original.png" width="280"/> | <img src="screenshots/clone.png" width="280"/> |
+| みんなの銀行 공식 앱 | SwiftUI 클론 구현 |
 
 ## 🛠 기술 스택
 
