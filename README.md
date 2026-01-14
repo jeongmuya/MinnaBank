@@ -2,11 +2,9 @@
 
 일본 디지털 뱅크 **みんなの銀行 (Minna Bank)** 앱의 Wallet 화면을 SwiftUI로 클론한 프로젝트입니다.
 
-## 📱 스크린샷
-
 | 원본 (Minna Bank) | 클론 (SwiftUI) |
 |:---:|:---:|
-| <img src="screenshots/original.png" width="280"/> | <img src="screenshots/clone.png" width="280"/> |
+| <img width="280" alt="image" src="https://github.com/user-attachments/assets/3cded77e-cf63-4ba9-a9d4-aa20a169ed87" /> | <img width="280" alt="Simulator Screenshot" src="https://github.com/user-attachments/assets/c6cb6a2a-f82c-4b0f-a87e-12ca88efd93f" />|
 | みんなの銀行 공식 앱 | SwiftUI 클론 구현 |
 
 ## 🛠 기술 스택
