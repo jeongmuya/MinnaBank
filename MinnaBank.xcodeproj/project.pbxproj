@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		4ADDD1352F16DA3200558FBD /* tttttt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tttttt.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4ADDD1352F16DA3200558FBD /* MinnaBank.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MinnaBank.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		4ADDD1372F16DA3200558FBD /* tttttt */ = {
+		4ADDD1372F16DA3200558FBD /* MinnaBank */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = tttttt;
+			path = MinnaBank;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		4ADDD12C2F16DA3200558FBD = {
 			isa = PBXGroup;
 			children = (
-				4ADDD1372F16DA3200558FBD /* tttttt */,
+				4ADDD1372F16DA3200558FBD /* MinnaBank */,
 				4ADDD1362F16DA3200558FBD /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		4ADDD1362F16DA3200558FBD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4ADDD1352F16DA3200558FBD /* tttttt.app */,
+				4ADDD1352F16DA3200558FBD /* MinnaBank.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4ADDD1342F16DA3200558FBD /* tttttt */ = {
+		4ADDD1342F16DA3200558FBD /* MinnaBank */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4ADDD1402F16DA3300558FBD /* Build configuration list for PBXNativeTarget "tttttt" */;
+			buildConfigurationList = 4ADDD1402F16DA3300558FBD /* Build configuration list for PBXNativeTarget "MinnaBank" */;
 			buildPhases = (
 				4ADDD1312F16DA3200558FBD /* Sources */,
 				4ADDD1322F16DA3200558FBD /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				4ADDD1372F16DA3200558FBD /* tttttt */,
+				4ADDD1372F16DA3200558FBD /* MinnaBank */,
 			);
-			name = tttttt;
+			name = MinnaBank;
 			packageProductDependencies = (
 			);
 			productName = tttttt;
-			productReference = 4ADDD1352F16DA3200558FBD /* tttttt.app */;
+			productReference = 4ADDD1352F16DA3200558FBD /* MinnaBank.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4ADDD1302F16DA3200558FBD /* Build configuration list for PBXProject "tttttt" */;
+			buildConfigurationList = 4ADDD1302F16DA3200558FBD /* Build configuration list for PBXProject "MinnaBank" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4ADDD1342F16DA3200558FBD /* tttttt */,
+				4ADDD1342F16DA3200558FBD /* MinnaBank */,
 			);
 		};
 /* End PBXProject section */
@@ -313,7 +313,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4ADDD1302F16DA3200558FBD /* Build configuration list for PBXProject "tttttt" */ = {
+		4ADDD1302F16DA3200558FBD /* Build configuration list for PBXProject "MinnaBank" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4ADDD13E2F16DA3300558FBD /* Debug */,
@@ -322,7 +322,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4ADDD1402F16DA3300558FBD /* Build configuration list for PBXNativeTarget "tttttt" */ = {
+		4ADDD1402F16DA3300558FBD /* Build configuration list for PBXNativeTarget "MinnaBank" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4ADDD1412F16DA3300558FBD /* Debug */,
